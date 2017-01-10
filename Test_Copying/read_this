@@ -1,2 +1,0 @@
-this project is an simple java application. Given 2 folders A and B it copies all content(files and folder) of A to B recursively.
-the 2 address are picked from a "test" file which is given in Test_copying.
